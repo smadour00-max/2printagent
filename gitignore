@@ -1,0 +1,8 @@
+# ⚠️ Ne jamais committer la clé API
+config.php
+
+# Dossiers système
+.DS_Store
+Thumbs.db
+*.log
+/tmp/
